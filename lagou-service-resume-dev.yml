@@ -1,4 +1,4 @@
 mysql:
-  url: dev-http://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+  url: dev-http://localhost:3306/db100
 lagou:
-  message: hello lagou,200
+  message: hello lagou,100
